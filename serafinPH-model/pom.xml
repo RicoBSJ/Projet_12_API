@@ -35,11 +35,5 @@
       <artifactId>hibernate-core</artifactId>
       <version>5.6.5.Final</version>
     </dependency>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.13.2</version>
-      <scope>test</scope>
-    </dependency>
   </dependencies>
 </project>
